@@ -17,8 +17,8 @@ Ani-Spider is a web scraping tool built using Scrapy, a powerful and flexible we
 
 1. Clone the repository:
     sh
-    git clone https://github.com/Mridul-23/Ani-Spider.git
-    cd Ani-Spider
+    git clone https://github.com/manoj-323/ani_spider.git
+    cd ani_spider
     
 
 2. Create a virtual environment and activate it:
@@ -29,8 +29,7 @@ Ani-Spider is a web scraping tool built using Scrapy, a powerful and flexible we
 
 3. Install the required dependencies:
     sh
-    pip install scrapy
-    
+   ```pip install scrapy```
 
 ## Usage
 
